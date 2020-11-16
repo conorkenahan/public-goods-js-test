@@ -15,5 +15,5 @@ function openPopup() {
 }
 
 window.onload = function () {
-  setTimeout(openPopup, 10);
+  setTimeout(openPopup, 5000);
 };
